@@ -10,6 +10,12 @@ A passionate Web developer and coder
 - 📫 How to reach me svaditi029@gmail.com
 
 
+## Connect with me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guptaadiiti/)
+
+
+
 ## Languages and Tools
 
 
