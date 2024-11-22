@@ -6,7 +6,7 @@
 A passionate Web developer and coder
 
 - 🌱 I’m currently learning Frontend
-- 💬 Ask me about HTML, CSS, JAVASCRIPT, REACTJS
+- 💬 Ask me about HTML, CSS, JAVASCRIPT, REACT.JS, NODE.JS, MONGODB, EXPRESS.JS
 - 📫 How to reach me svaditi029@gmail.com
 
 
